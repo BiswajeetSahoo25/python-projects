@@ -1,6 +1,7 @@
 # PYTHON PROJECTS
 ---
 
+# PROJECT - 01
 # 📰 Fake News Generator (Python)
 
 A simple Python project that generates random fake news headlines for fun.  
@@ -15,13 +16,14 @@ This project demonstrates text generation, randomness, and file I/O in Python.
 - Option to save generated news into a text file.
 
 ---
-
+# PROJECT - 02
 # ➗ Basic Calculator (Python)
 
 A simple Python project that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 This project demonstrates user input handling, functions, and basic error checking in Python.
 
 ---
+
 
 ## 📌 Features
 
