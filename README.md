@@ -16,14 +16,14 @@ This project demonstrates text generation, randomness, and file I/O in Python.
 
 ---
 
-➗ Basic Calculator (Python)
+# ➗ Basic Calculator (Python)
 
 A simple Python project that performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 This project demonstrates user input handling, functions, and basic error checking in Python.
 
 ---
 
-📌 Features
+## 📌 Features
 
 -Supports addition, subtraction, multiplication, and division.
 -Handles invalid inputs with error messages.
