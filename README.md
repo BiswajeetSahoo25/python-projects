@@ -13,9 +13,4 @@ This project demonstrates text generation, randomness, and file I/O in Python.
 
 ---
 
-## 🚀 Getting Started
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/fake-news-generator.git
-cd fake-news-generator
