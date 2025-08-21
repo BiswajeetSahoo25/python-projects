@@ -33,4 +33,26 @@ This project demonstrates user input handling, functions, and basic error checki
 -Option to perform multiple calculations in one run.
 -Beginner-friendly project to understand Python basics.
 
+---
+
+# PROJECT - 03
+## Unit Converter (Python)
+
+A simple Python project that converts values from one measurement unit to another.  
+This project demonstrates user input handling, conditional logic, and arithmetic operations in Python.
+
+---
+
+### ✨ Features
+- Converts between commonly used units:
+  - **Length**: kilometers ↔ miles, meters
+  - 
+  
+- User-friendly command-line interface.  
+- Error handling for invalid inputs.  
+- Easy to extend for adding new unit conversions.  
+
+---
+
+
 
